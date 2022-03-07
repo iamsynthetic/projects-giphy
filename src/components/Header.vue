@@ -58,16 +58,13 @@ const go = () => {
 }
 
 // methods
-const uploadPopUp = () => {
-  alert('upload pop up')
-}
-const createPopUp = () => {
-  alert('create pop up')
-}
-const loginPopUp = () => {
-  alert('login pop u  p')
-}
-const sendNewSearchTerm = (searchterm: string) => {
+// const sendNewSearchTerm = (searchterm: string) => {
+//   console.log(`header.vue - sendnewsearchterm function - searchterm is: ${searchterm}`)
+//   test.changeSearchTerm(searchterm)
+//   console.log(`header: ${test.searchTerm}`)
+// }
+
+function sendNewSearchTerm(searchterm: string) {
   console.log(`header.vue - sendnewsearchterm function - searchterm is: ${searchterm}`)
   test.changeSearchTerm(searchterm)
   console.log(`header: ${test.searchTerm}`)

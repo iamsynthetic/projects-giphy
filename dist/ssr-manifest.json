@@ -341,7 +341,7 @@
     "/assets/virtual_pwa-register.3dc6281c.js"
   ],
   "src/pages/about.md": [
-    "/assets/about.782ea8aa.js"
+    "/assets/about.e5d79cfe.js"
   ],
   "src/pages/README.md": [
     "/assets/README.23b2a9f7.js"
@@ -359,18 +359,18 @@
     "/assets/404.59edf711.js"
   ],
   "src/components/Header.vue?vue&type=style&index=0&lang.css": [
-    "/assets/home.4c353246.js",
+    "/assets/home.0b67816f.js",
     "/assets/home.6a390056.css"
   ],
   "src/components/Header.vue": [
-    "/assets/home.4c353246.js",
+    "/assets/home.0b67816f.js",
     "/assets/home.6a390056.css"
   ],
   "src/layouts/home.vue": [
-    "/assets/home.4c353246.js",
+    "/assets/home.0b67816f.js",
     "/assets/home.6a390056.css"
   ],
   "src/layouts/top.vue": [
-    "/assets/top.87a10069.js"
+    "/assets/top.ba8dec63.js"
   ]
 }
