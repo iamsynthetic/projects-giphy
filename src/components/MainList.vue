@@ -23,9 +23,6 @@
                 <div class="thedate">
                   {{ fullaxiosData.data.data[index-1].import_datetime }}
                 </div>
-                <div class="thecategory">
-                  {{ thecategory }}
-                </div>
               </div>
             </div>
           </div>
@@ -43,7 +40,6 @@ import { useTestStore } from '~/stores/test'
 
 const test = useTestStore()
 const boxes = 50
-const thecategory = 'gaming'
 const fullaxiosURL = ref('baseball')
 const fullaxiosData = ref('')
 const thepopup = Popup
