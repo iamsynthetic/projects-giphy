@@ -1,1 +1,0 @@
-import{b as o}from"./app.827e4eb4.js";import{A as r,o as t,g as n,B as a,F as s,h as c}from"./vendor.b09092fe.js";const _={},m=c("h4",null,"menu bar",-1);function p(l,f){const e=r("router-view");return t(),n(s,null,[m,a(e)],64)}var i=o(_,[["render",p]]);export{i as default};
