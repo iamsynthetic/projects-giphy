@@ -42,6 +42,7 @@
 
 <script setup lang="ts">
 
+import { ref } from 'vue'
 import { isDark, toggleDark } from '~/composables'
 import { useUserStore } from '~/stores/user'
 import { useTestStore } from '~/stores/test'
@@ -51,7 +52,7 @@ const user = useUserStore()
 const test = useTestStore()
 const name = ref(user.savedName)
 const router = useRouter()
-const thesearchterm = ''
+const thesearchterm = ref('')
 const go = () => {
   if (name.value)
     router.push(`/hi/${encodeURIComponent(name.value)}`)

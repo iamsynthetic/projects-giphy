@@ -47,292 +47,292 @@
   "src/main.ts": [],
   "index.html": [],
   "node_modules/.pnpm/@intlify+shared@9.1.9/node_modules/@intlify/shared/dist/shared.esm-bundler.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/@intlify+message-resolver@9.1.9/node_modules/@intlify/message-resolver/dist/message-resolver.esm-bundler.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/@intlify+runtime@9.1.9/node_modules/@intlify/runtime/dist/runtime.esm-bundler.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/@intlify+message-compiler@9.1.9/node_modules/@intlify/message-compiler/dist/message-compiler.esm-bundler.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/@intlify+devtools-if@9.1.9/node_modules/@intlify/devtools-if/dist/devtools-if.esm-bundler.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/@intlify+core-base@9.1.9/node_modules/@intlify/core-base/dist/core-base.esm-bundler.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/@vue+shared@3.2.26/node_modules/@vue/shared/dist/shared.esm-bundler.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/@vue+reactivity@3.2.26/node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/@vue+runtime-core@3.2.26/node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/@vue+runtime-dom@3.2.26/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/vue@3.2.26/node_modules/vue/dist/vue.runtime.esm-bundler.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.21.1/node_modules/@vue/devtools-api/lib/esm/env.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.21.1/node_modules/@vue/devtools-api/lib/esm/const.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.21.1/node_modules/@vue/devtools-api/lib/esm/proxy.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.21.1/node_modules/@vue/devtools-api/lib/esm/api/api.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.21.1/node_modules/@vue/devtools-api/lib/esm/api/app.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.21.1/node_modules/@vue/devtools-api/lib/esm/api/component.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.21.1/node_modules/@vue/devtools-api/lib/esm/api/context.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.21.1/node_modules/@vue/devtools-api/lib/esm/api/hooks.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.21.1/node_modules/@vue/devtools-api/lib/esm/api/util.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.21.1/node_modules/@vue/devtools-api/lib/esm/api/index.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.21.1/node_modules/@vue/devtools-api/lib/esm/plugin.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.21.1/node_modules/@vue/devtools-api/lib/esm/index.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/@intlify+vue-devtools@9.1.9/node_modules/@intlify/vue-devtools/dist/vue-devtools.esm-bundler.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/vue-i18n@9.1.9_vue@3.2.26/node_modules/vue-i18n/dist/vue-i18n.runtime.esm-bundler.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "\u0000commonjsHelpers.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "\u0000C:/Users/synth/OneDrive/Documents/code/projects/vue/projects-giphy/node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js?commonjs-module": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/vue-demi@0.12.1_vue@3.2.26/node_modules/vue-demi/lib/index.mjs": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/pinia@2.0.9_typescript@4.5.4+vue@3.2.26/node_modules/pinia/dist/pinia.esm-browser.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/vue-router@4.0.12_vue@3.2.26/node_modules/vue-router/dist/vue-router.esm-bundler.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/@vueuse+head@0.7.4_vue@3.2.26/node_modules/@vueuse/head/dist/index.mjs": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/vite-ssg@0.17.5_368867ec42a5817ec88162e5cd4d754b/node_modules/vite-ssg/dist/chunks/state.mjs": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/vite-ssg@0.17.5_368867ec42a5817ec88162e5cd4d754b/node_modules/vite-ssg/dist/chunks/ClientOnly.mjs": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/vite-ssg@0.17.5_368867ec42a5817ec88162e5cd4d754b/node_modules/vite-ssg/dist/index.mjs": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "\u0000C:/Users/synth/OneDrive/Documents/code/projects/vue/projects-giphy/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/axios.js?commonjs-module": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/helpers/bind.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "\u0000C:/Users/synth/OneDrive/Documents/code/projects/vue/projects-giphy/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/helpers/bind.js?commonjs-proxy": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/utils.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "\u0000C:/Users/synth/OneDrive/Documents/code/projects/vue/projects-giphy/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/utils.js?commonjs-proxy": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/helpers/buildURL.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "\u0000C:/Users/synth/OneDrive/Documents/code/projects/vue/projects-giphy/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/helpers/buildURL.js?commonjs-proxy": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/core/InterceptorManager.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "\u0000C:/Users/synth/OneDrive/Documents/code/projects/vue/projects-giphy/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/core/InterceptorManager.js?commonjs-proxy": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/helpers/normalizeHeaderName.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "\u0000C:/Users/synth/OneDrive/Documents/code/projects/vue/projects-giphy/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/helpers/normalizeHeaderName.js?commonjs-proxy": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/core/enhanceError.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "\u0000C:/Users/synth/OneDrive/Documents/code/projects/vue/projects-giphy/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/core/enhanceError.js?commonjs-proxy": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/core/createError.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "\u0000C:/Users/synth/OneDrive/Documents/code/projects/vue/projects-giphy/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/core/createError.js?commonjs-proxy": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/core/settle.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "\u0000C:/Users/synth/OneDrive/Documents/code/projects/vue/projects-giphy/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/core/settle.js?commonjs-proxy": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/helpers/cookies.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "\u0000C:/Users/synth/OneDrive/Documents/code/projects/vue/projects-giphy/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/helpers/cookies.js?commonjs-proxy": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/helpers/isAbsoluteURL.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "\u0000C:/Users/synth/OneDrive/Documents/code/projects/vue/projects-giphy/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/helpers/isAbsoluteURL.js?commonjs-proxy": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/helpers/combineURLs.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "\u0000C:/Users/synth/OneDrive/Documents/code/projects/vue/projects-giphy/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/helpers/combineURLs.js?commonjs-proxy": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/core/buildFullPath.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "\u0000C:/Users/synth/OneDrive/Documents/code/projects/vue/projects-giphy/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/core/buildFullPath.js?commonjs-proxy": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/helpers/parseHeaders.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "\u0000C:/Users/synth/OneDrive/Documents/code/projects/vue/projects-giphy/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/helpers/parseHeaders.js?commonjs-proxy": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/helpers/isURLSameOrigin.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "\u0000C:/Users/synth/OneDrive/Documents/code/projects/vue/projects-giphy/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/helpers/isURLSameOrigin.js?commonjs-proxy": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "\u0000C:/Users/synth/OneDrive/Documents/code/projects/vue/projects-giphy/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/defaults.js?commonjs-proxy": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/cancel/Cancel.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "\u0000C:/Users/synth/OneDrive/Documents/code/projects/vue/projects-giphy/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/cancel/Cancel.js?commonjs-proxy": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/adapters/xhr.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "\u0000C:/Users/synth/OneDrive/Documents/code/projects/vue/projects-giphy/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/adapters/xhr.js?commonjs-proxy": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/defaults.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/core/transformData.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "\u0000C:/Users/synth/OneDrive/Documents/code/projects/vue/projects-giphy/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/core/transformData.js?commonjs-proxy": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/cancel/isCancel.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "\u0000C:/Users/synth/OneDrive/Documents/code/projects/vue/projects-giphy/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/cancel/isCancel.js?commonjs-proxy": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/core/dispatchRequest.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "\u0000C:/Users/synth/OneDrive/Documents/code/projects/vue/projects-giphy/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/core/dispatchRequest.js?commonjs-proxy": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/core/mergeConfig.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "\u0000C:/Users/synth/OneDrive/Documents/code/projects/vue/projects-giphy/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/core/mergeConfig.js?commonjs-proxy": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/env/data.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "\u0000C:/Users/synth/OneDrive/Documents/code/projects/vue/projects-giphy/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/env/data.js?commonjs-proxy": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/helpers/validator.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "\u0000C:/Users/synth/OneDrive/Documents/code/projects/vue/projects-giphy/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/helpers/validator.js?commonjs-proxy": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/core/Axios.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "\u0000C:/Users/synth/OneDrive/Documents/code/projects/vue/projects-giphy/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/core/Axios.js?commonjs-proxy": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/cancel/CancelToken.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "\u0000C:/Users/synth/OneDrive/Documents/code/projects/vue/projects-giphy/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/cancel/CancelToken.js?commonjs-proxy": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/helpers/spread.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "\u0000C:/Users/synth/OneDrive/Documents/code/projects/vue/projects-giphy/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/helpers/spread.js?commonjs-proxy": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/helpers/isAxiosError.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "\u0000C:/Users/synth/OneDrive/Documents/code/projects/vue/projects-giphy/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/helpers/isAxiosError.js?commonjs-proxy": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/axios.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "\u0000C:/Users/synth/OneDrive/Documents/code/projects/vue/projects-giphy/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/axios.js?commonjs-proxy": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/index.js": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/@vueuse+integrations@7.5.3_vue@3.2.26/node_modules/@vueuse/integrations/useAxios.mjs": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/@vueuse+shared@7.5.3_vue@3.2.26/node_modules/@vueuse/shared/index.mjs": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/@vueuse+core@7.5.3_vue@3.2.26/node_modules/@vueuse/core/index.mjs": [
-    "/assets/vendor.58dabd8a.js"
+    "/assets/vendor.038c9c4f.js"
   ],
   "node_modules/.pnpm/workbox-window@6.4.2/node_modules/workbox-window/build/workbox-window.prod.es5.mjs": [
     "/assets/virtual_pwa-register.3dc6281c.js"
@@ -341,36 +341,36 @@
     "/assets/virtual_pwa-register.3dc6281c.js"
   ],
   "src/pages/about.md": [
-    "/assets/about.e5d79cfe.js"
+    "/assets/about.6c0c9b7b.js"
   ],
   "src/pages/README.md": [
-    "/assets/README.23b2a9f7.js"
+    "/assets/README.46fa4854.js"
   ],
   "src/pages/[...all].vue?vue&type=route&index=0&lang.yaml": [
-    "/assets/_...all_.379cf99a.js"
+    "/assets/_...all_.44274072.js"
   ],
   "src/pages/[...all].vue": [
-    "/assets/_...all_.379cf99a.js"
+    "/assets/_...all_.44274072.js"
   ],
   "~icons/carbon/warning": [
-    "/assets/404.59edf711.js"
+    "/assets/404.ae0da5d7.js"
   ],
   "src/layouts/404.vue": [
-    "/assets/404.59edf711.js"
+    "/assets/404.ae0da5d7.js"
   ],
   "src/components/Header.vue?vue&type=style&index=0&lang.css": [
-    "/assets/home.0b67816f.js",
+    "/assets/home.f744bf15.js",
     "/assets/home.6a390056.css"
   ],
   "src/components/Header.vue": [
-    "/assets/home.0b67816f.js",
+    "/assets/home.f744bf15.js",
     "/assets/home.6a390056.css"
   ],
   "src/layouts/home.vue": [
-    "/assets/home.0b67816f.js",
+    "/assets/home.f744bf15.js",
     "/assets/home.6a390056.css"
   ],
   "src/layouts/top.vue": [
-    "/assets/top.ba8dec63.js"
+    "/assets/top.21987483.js"
   ]
 }
