@@ -31,6 +31,8 @@ export const useTestStore = defineStore('test', () => {
   }
 
   function setUserdata(newUserdata: object) {
+    console.log(`${userdata}`)
+    console.log(`${newUserdata.username}`)
     userdata.value = newUserdata
   }
 

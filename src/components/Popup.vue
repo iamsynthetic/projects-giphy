@@ -10,12 +10,24 @@
             <img class="gif-img" :src="testURL" alt="alt for gif">
           </div>
           <div class="popup-content">
-            <p><b>Title:</b> {{ usertitle }}</p>
-            <p><b>User Name:</b> {{ userdata.username }}</p>
-            <p><b>Display Name:</b> {{ userdata.display_name }}</p>
-            <p><b>Description:</b> {{ userdata.description }}</p>
-            <p><b>Site:</b> {{ userdata.website_url }}</p>
-            <p><b>Verified:</b> {{ userdata.is_verified }}</p>
+            <p v-if="usertitle">
+              <b>Title:</b> {{ usertitle }}
+            </p>
+            <p v-if="userdata.username">
+              <b>User Name:</b> {{ userdata.username }}
+            </p>
+            <p v-if="userdata.display_name">
+              <b>Display Name:</b> {{ userdata.display_name }}
+            </p>
+            <p v-if="userdata.description">
+              <b>Description:</b> {{ userdata.description }}
+            </p>
+            <p v-if="userdata.website_url">
+              <b>Site:</b> {{ userdata.website_url }}
+            </p>
+            <p v-if="userdata.is_verified">
+              <b>Verified:</b> {{ userdata.is_verified }}
+            </p>
           </div>
         </div>
       </div>
@@ -24,15 +36,11 @@
 </template>
 <script setup lang="ts">
 import { storeToRefs } from 'pinia'
-import { useUserStore } from '~/stores/user'
 import { useTestStore } from '~/stores/test'
 
 const props = defineProps<{ newTestURL: string; newSearchTerm: string; newUserTitle: string; newUserdata: object }>()
-const router = useRouter()
-const user = useUserStore()
 const test = useTestStore()
-const { t } = useI18n()
-const { testURL, searchTerm, userdata, usertitle } = storeToRefs(test)
+const { testURL, userdata, usertitle } = storeToRefs(test)
 </script>
 
 <style>
@@ -93,6 +101,7 @@ const { testURL, searchTerm, userdata, usertitle } = storeToRefs(test)
   display:flex;
   flex-direction: column;
   align-items: flex-start;
+  text-align: left;
   font-size:14px;
 }
 </style>
