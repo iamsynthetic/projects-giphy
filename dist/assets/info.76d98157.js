@@ -1,0 +1,3 @@
+import{C as e,o as t,g as o,x as a}from"./vendor.b09092fe.js";const n={class:"prose prose-sm m-auto text-left"},r=a(`<h3>hello world from markdown</h3><pre class="language-js"><code class="language-js"><span class="token keyword">import</span> test <span class="token keyword">from</span> <span class="token string">&#39;test&#39;</span>
+<span class="token keyword">const</span> b <span class="token operator">=</span> <span class="token string">&#39;test&#39;</span>
+</code></pre><p><a href="http://www.google.com" target="_blank" rel="noopener">hello world</a></p>`,3),c=[r],h=[],f={setup(p,{expose:s}){return s({frontmatter:{meta:[]}}),e({meta:[]}),(m,k)=>(t(),o("div",n,c))}};export{f as default,h as meta};
