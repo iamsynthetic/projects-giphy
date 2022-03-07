@@ -18,18 +18,7 @@
       >
     </div>
 
-    <!-- <button class="nav-space-right-side icon-btn" @click="uploadPopUp">
-      UPLOAD
-    </button>
-    <button class=" icon-btn" @click="createPopUp">
-      CREATE
-    </button>
-    <button class=" icon-btn" @click="loginPopUp">
-      LOGIN
-    </button> -->
     <button class="nav-space-right-side-last icon-btn !outline-none" :title="t('button.toggle_dark')" @click="toggleDark()">
-      <!-- <carbon-moon v-if="isDark" class="light-change-icon" />
-      <carbon-sun v-else class="light-change-icon" /> -->
       <p v-if="isDark" class="showthis">
         light
       </p>
@@ -44,31 +33,14 @@
 
 import { ref } from 'vue'
 import { isDark, toggleDark } from '~/composables'
-import { useUserStore } from '~/stores/user'
 import { useTestStore } from '~/stores/test'
 
 const { t } = useI18n()
-const user = useUserStore()
 const test = useTestStore()
-const name = ref(user.savedName)
-const router = useRouter()
 const thesearchterm = ref('')
-const go = () => {
-  if (name.value)
-    router.push(`/hi/${encodeURIComponent(name.value)}`)
-}
-
-// methods
-// const sendNewSearchTerm = (searchterm: string) => {
-//   console.log(`header.vue - sendnewsearchterm function - searchterm is: ${searchterm}`)
-//   test.changeSearchTerm(searchterm)
-//   console.log(`header: ${test.searchTerm}`)
-// }
 
 function sendNewSearchTerm(searchterm: string) {
-  console.log(`header.vue - sendnewsearchterm function - searchterm is: ${searchterm}`)
   test.changeSearchTerm(searchterm)
-  console.log(`header: ${test.searchTerm}`)
 }
 </script>
 
@@ -83,11 +55,6 @@ function sendNewSearchTerm(searchterm: string) {
   font-size:20px;
   padding-left:20px;
   /* padding-right:100px; */
-}
-.nav-space{
-}
-.right-side-nav{
-
 }
 .nav-space-right-side{
   padding-left:50px;
@@ -135,7 +102,7 @@ function sendNewSearchTerm(searchterm: string) {
     margin-left:10px;
   }
 }
-@media (min-width: 571px && max-width: 795px) {
+@media (min-width: 571px) and (max-width: 795px) {
   .search-bar, .search-field{
     width:40vw;
     margin-left:10px;

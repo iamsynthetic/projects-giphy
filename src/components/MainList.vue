@@ -6,7 +6,7 @@
     <div class="flex-container">
       <div v-for="(index) in boxes" :key="index">
         <div class="box">
-          <div v-if="fullaxiosData">
+          <div v-if="fullaxiosData.data">
             <div>
               <div class="content-group2-overlay" @click="() => togglePopup('buttonTrigger', fullaxiosData.data.data[index-1].id, fullaxiosData.data.data[index-1].images.original.url, fullaxiosData.data.data[index-1].title, fullaxiosData.data.data[index-1].user)">
                 <div class="thetitle">
@@ -41,7 +41,6 @@ import { reactive, ref, watch } from 'vue'
 import Popup from '/src/components/Popup.vue'
 import { useTestStore } from '~/stores/test'
 
-const router = useRouter()
 const test = useTestStore()
 const boxes = 50
 const thecategory = 'gaming'
@@ -67,18 +66,14 @@ const allAxios = () => {
 }
 
 onMounted(() => {
-  test.setNewTestURL('good day sir!')
+  test.setNewTestURL('example')
 })
 
 watch(test, () => {
-  console.log(`searchTerm!!!! is: ${test.searchTerm}`)
-
   if (test.searchTerm !== '')
     allData.thevaluethatchanges = test.searchTerm
-
   else
     allData.thevaluethatchanges = 'baseball'
-
   allAxios()
 })
 
@@ -87,29 +82,17 @@ watch(allData, () => {
 })
 
 watch(bool, () => {
-  console.log('gogogoignoingeoinogiengoi')
   document.body.style = bool.active
-  console.log(`watch - bool.active is: ${bool.active}`)
 })
-
-const go = (thepageurl: string, thegifurl: string) => {
-  router.push(`/hi/${thepageurl}`)
-  test.setNewTestURL(thegifurl)
-  test.changeSearchTerm(allData.thevaluethatchanges)
-}
 
 const togglePopup = (trigger, thepageurl: 'sample', thegifurl: 'sample', title: 'sample', userdata: [something]) => {
   popupTriggers.value[trigger] = !popupTriggers.value[trigger]
 
-  if (bool.active == 'overflow: hidden') {
-    console.log(`1 togglepopup - bool.active is: ${bool.active}`)
+  if (bool.active == 'overflow: hidden')
     bool.active = 'overflow: show'
-    console.log(`2 togglepopup - bool.active is: ${bool.active}`)
-  }
-  else if (bool.active == 'overflow: show') {
-    console.log(`2 togglepopup - bool.active is: ${bool.active}`)
+
+  else if (bool.active == 'overflow: show')
     bool.active = 'overflow: hidden'
-  }
 
   test.setNewTestURL(thegifurl)
   test.changeSearchTerm(allData.thevaluethatchanges)
