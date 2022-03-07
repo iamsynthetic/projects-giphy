@@ -56,7 +56,7 @@ const bool = reactive({
 const allData = reactive({
   thevaluethatchanges: 'baseball',
   thebaseurl: 'https://api.giphy.com/v1/gifs/search?api_key=k9Sla2CsxOdurUwbfkebubfaVJqKJ3HS&q=',
-  therestoftheurl: '&limit=50&offset=0&rating=g&lang=en',
+  therestoftheurl: '=&limit=50&offset=0&rating=g&lang=en',
 })
 
 const allAxios = () => {

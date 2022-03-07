@@ -68,6 +68,7 @@ const loginPopUp = () => {
   alert('login pop u  p')
 }
 const sendNewSearchTerm = (searchterm: string) => {
+  console.log(`header.vue - sendnewsearchterm function - searchterm is: ${searchterm}`)
   test.changeSearchTerm(searchterm)
   console.log(`header: ${test.searchTerm}`)
 }
